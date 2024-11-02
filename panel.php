@@ -7,7 +7,7 @@ if (!isset($_SESSION["usuario"]) && !isset($_SESSION["clave"])) {
 $idioma = $_GET['idioma'] ?? $_COOKIE['c_idioma'] ?? 'ES';
 
 if (isset($_GET['idioma'])) {
-    setcookie("c_idioma", $idioma, time() + 60 * 60 * 24);
+    setcookie("c_idioma", $idioma, 0);
 }
 
 $archivoCategorias = $idioma === "EN" ? "categorias_en.txt" : "categorias_es.txt";
@@ -39,27 +39,27 @@ if ($fp) {
     <title>Panel Principal</title>
 </head>
 <body>
-    <h1>PANEL PRINCIPAL</h1>
-    <h2>Bienvenido Usuario: <?php echo $_SESSION["usuario"] ?></h2>
+<h1>PANEL PRINCIPAL</h1>
+<h2>Bienvenido Usuario: <?php echo $_SESSION["usuario"] ?></h2>
 
-    <label>
-        <a href="panel.php?idioma=ES">ES (Español)</a> |
-        <a href="panel.php?idioma=EN">EN (English)</a>
-    </label>
-    
-    <br>
-    <br>
-    <a href="cerrarsesion.php">Cerrar Sesión</a>
+<label>
+    <a href="panel.php?idioma=ES">ES (Español)</a> |
+    <a href="panel.php?idioma=EN">EN (English)</a>
+</label>
 
-    <h2><?php echo $tituloLista; ?></h2>
-    <ul>
-        <?php foreach ($categorias as $categoria): ?>
-            <li>
-                <a href="producto.php?item=<?php echo urlencode($categoria['nombre']); ?>">
-                    <?php echo htmlspecialchars($categoria['nombre']); ?>
-                </a>
-            </li>
-        <?php endforeach; ?>
-    </ul>
+<br>
+<br>
+<a href="cerrarsesion.php">Cerrar Sesión</a>
+
+<h2><?php echo $tituloLista; ?></h2>
+<ul>
+    <?php foreach ($categorias as $categoria): ?>
+        <li>
+            <a href="producto.php?item=<?php echo urlencode($categoria['nombre']); ?>">
+                <?php echo htmlspecialchars($categoria['nombre']); ?>
+            </a>
+        </li>
+    <?php endforeach; ?>
+</ul>
 </body>
 </html>

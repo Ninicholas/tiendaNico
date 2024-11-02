@@ -8,8 +8,4 @@
         setcookie("c_idioma", "");
     }
 
-
-
     header("Location:login.php");
-
-?>

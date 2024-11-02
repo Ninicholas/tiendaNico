@@ -1,0 +1,14 @@
+Pants;7K3QJ;Comfortable gray pants for daily use;https://hips.hearstapps.com/hmg-prod/images/meraki-pantalones-comodos-1542275602.jpg;39.99
+Shirts;Z8T1M;Blue cotton long-sleeved shirt;https://i5.walmartimages.com/asr/d9977df6-3501-49b0-90da-0794f7578371.b2857dc23466bef66db8b085012fce3e.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF;34.99
+T-shirts;Q6Z9B;Navy blue cotton T-shirt;https://rolandecuador.vtexassets.com/arquivos/ids/163861-800-auto?v=637937665226670000&width=800&height=auto&aspect=true;9.99
+Tracksuits;L2C8V;Yellow sporty tracksuit ideal for training;https://deportienda.es/3138-large_default/chaqueta-chandal-staff-deportivo-de-la-coruna-amarilla-2324-arufeod-7.jpg;35.99
+Tights;N1Y5H;Black elastic tights;https://www.popsyclothing.co.uk/cdn/shop/products/tights8_1_1000_740x.jpg?v=1576755266;3.99
+Poles;A9P7X;High-quality cotton polo shirt;https://m.media-amazon.com/images/I/81NahZXF9QL._AC_SL1396_.jpg;29.99
+Sweatshirts;M5K3Q;Hoodie with pocket;https://hmecuador.vtexassets.com/arquivos/ids/1998402/Chaqueta-sudadera-con-cremallera-Loose-Fit---Beige---H-M-EC.jpg?v=638584544414570000;39.99
+Jackets;T7Q2L;Black leather jacket;https://i.pinimg.com/550x/b5/ff/c7/b5ffc7f3fcc3814399b14e46574945c0.jpg;59.99
+Fleece linings;G3F9Y;Soft and warm fleece with pockets;https://www.neo2.com/wp-content/uploads/2023/01/forro-polar-invierno-2023-06.jpg;49.99
+Vests;K2N8D;Gray padded vest for outdoor;https://hmecuador.vtexassets.com/arquivos/ids/1980422/Chaleco-acolchado---Dark-grey---H-M-EC.jpg?v=638576777372070000;25.99
+Coats;J6R4Z;Long wool coat;https://www.jmcharro.com/wp-content/uploads/2022/07/hombre-abrigo-largo-lana-reciclada-marrc3b3n-medio-abrigos-mango.jpg;79.99
+Sweaters;B8X1M;Classic knit sweater;https://old-money.com/cdn/shop/files/HighWaistBoxerShorts.webp?v=1711407574&width=2048;24.99
+Ties;H4Z7L;Silk tie for formal occasions;https://www.botris.com.ec/wp-content/uploads/2020/12/Corbata-de-sarga-de-seda-pura.jpg;9.99
+Shoes;Q5F3J;Elegant leather shoes;https://bassil.com.ec/wp-content/uploads/2023/05/ZAPATO-PASADOR-CAFE%CC%81-LLANO-400303-4.png;45.99
